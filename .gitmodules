@@ -1,0 +1,6 @@
+[submodule "TracksForShippers_client"]
+	path = TracksForShippers_client
+	url = https://github.com/GHernandez2410/TracksForShippers_client.git
+[submodule "TracksForShippers_server"]
+	path = TracksForShippers_server
+	url = https://github.com/GHernandez2410/TracksForShippers_server.git
